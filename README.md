@@ -7,4 +7,4 @@ IT infrastructure, networks (MikroTik), WiFi, managed services and industrial so
 ## Here you'll find
 Free tools, experiments and toys we build along the way.
 
-😄 **nju aj ti OVERKLOKING** – our IT comic, on [nuit.hr](https://nuit.hr/overkloking)
+😄 **nju aj ti OVERKLOKING** – our IT comic, on [nuit.hr/overkloking](https://nuit.hr/overkloking)
