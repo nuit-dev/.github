@@ -4,7 +4,7 @@ Design, development and maintenance of computer, network and WiFi systems and in
 
 🌐 [nuit.hr](https://nuit.hr) · ✉️ [info@nuit.hr](mailto:info@nuit.hr)
 
-😄 **nju aj ti OVERKLOKING** – our IT comic, on [nuit.hr/overkloking](https://nuit.hr/overkloking/)
+😄 **nju aj ti OVERKLOKING** – our IT (and life) comic in Croatian: [nuit.hr/overkloking](https://nuit.hr/overkloking/)
 
 ## Here you'll find
 Free tools, experiments and toys we build along the way.
